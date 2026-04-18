@@ -1,6 +1,8 @@
 # xtfifevd_r
 Fixed Effects Filtered & Vector Decomposition Estimation for Time-Invariant and Rarely Changing Variables in Panel Data with Unit Fixed Effects Use xtfifevd With (in) R Software
 
+https://www.youtube.com/watch?v=eINCbhpvxUA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
